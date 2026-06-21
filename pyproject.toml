@@ -1,0 +1,8 @@
+[project]
+name = "demo-py-frauddetection"
+version = "0.1.0"
+description = "A synthetic-data demo that explores referral bonus abuse, which is a common fraud scenario in fintech and e-commerce."
+readme = "README.md"
+requires-python = ">=3.14.5"
+dependencies = [
+]
