@@ -36,7 +36,7 @@ uv run main.py
 
 ## Demo Output
 
-When run, it generates a synthetic population of normal customers, injects two small fraud rings, and scores each account using fraud signals. 
+When run, the main script generates a synthetic population of normal customers, injects two small fraud rings, and scores each account using fraud signals. 
 
 ```log
 Referral Bonus Abuse Demo
